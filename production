@@ -1,0 +1,8 @@
+{
+  "alertmanager": {
+    "config_repository": {
+      "url": "https://github.com/yoyi1974/alertmanager-configs",
+      "path": "/production"
+    }
+  }
+}
